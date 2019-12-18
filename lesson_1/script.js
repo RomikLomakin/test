@@ -1,4 +1,4 @@
-'use strict'
+/* 'use strict'
 let money = prompt("Ваш бюджет");
 let name = prompt("Название Вашего магазина");
 let time = 19;
@@ -20,7 +20,6 @@ for (let i = 0; i < 5; i++) {
     mainList.shopGoods[i] = a;
   } else {
       prompt("Какой тип товаров будем продавать?");
-      // mainList.shopGoods[i] = a;
   }
 }
 
@@ -36,4 +35,4 @@ if (time < 0) {
 
 alert(mainList.budget / 30);
 
-console.log(mainList);
+console.log(mainList); */
